@@ -1,5 +1,7 @@
 # Boston-Crime-Analysis
 
+## Technical Skills: Python, Pandas, Seaborn, Scipy, Numpy, Matplotlib, and Plotly
+
 1. **Data Preparation**:
    - `boston_row` dataframe is loaded with the Boston crime data.
    - The `OCCURRED_ON_DATE` column is converted to a DateTime format.
